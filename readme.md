@@ -34,7 +34,15 @@ JSOBlog is suitable for Blog of your personal website or organization. It is ver
       }
 
   5. Start laravel server by " php artisan serve " command or if you are using shared hosting than change little bit configuration as per below guide. [Laravel on shared hosting](http://driesvints.com/blog/laravel-4-on-a-shared-host).
+  7. Use yourhost.com/login for login.
   6. Start Blogging.
+
+## Watch Live demo at
+
+  - [jsoblog.uni.me](http://jsoblog.uni.me).
+  - Credentials
+    - email: demo@demo.com as email
+    - password: demo@123
 
 ## For Developers
 
